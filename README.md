@@ -28,7 +28,7 @@ O site foi construído utilizando:
 
 Aqui está uma prévia do site em funcionamento:  
 
-<img width="1877" height="861" alt="Image" src="https://github.com/user-attachments/assets/a824e9e3-da3a-41a1-844e-1ac2a2a26302" />
+<img width="1871" height="861" alt="Image" src="https://github.com/user-attachments/assets/9789f026-8cd1-4df2-89e8-c91d93fa272e" />
 
 -----
 
