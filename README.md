@@ -24,6 +24,14 @@ O site foi construído utilizando:
 
 -----
 
+## 📸 Demonstração  
+
+Aqui está uma prévia do site em funcionamento:  
+
+<img width="1877" height="861" alt="Image" src="https://github.com/user-attachments/assets/a824e9e3-da3a-41a1-844e-1ac2a2a26302" />
+
+-----
+
 ## 🔗 Links  
 
 - **Deploy do Projeto:** [Acesse aqui](https://criticalaxz.github.io/ProjetoBaep)  
